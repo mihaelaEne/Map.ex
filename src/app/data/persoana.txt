@@ -1,0 +1,4 @@
+doctor,maria ioana,45,cardiologie,15
+doctor,vasile ion,35,neurologie,7
+pacient,george georgescu,15,durere in piept,cardiologie
+pacient,marinela maria,55,durere de cap, neurologie
